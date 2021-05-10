@@ -1,0 +1,1 @@
+  const omnia = function(){ console.log(chalk.blue('hello omnia'))}; module.exports={omnia}
